@@ -1,13 +1,3 @@
----
-title: Acceuil
-description: 
-published: true
-date: 2024-02-01T15:47:08.744Z
-tags: 
-editor: markdown
-dateCreated: 2024-02-01T15:45:32.555Z
----
-
 # Bienvenue
 
 Bienvenue sur notre plateforme de documentation. Vous trouverez ici des informations détaillées sur la gestion de parcs, la supervision, et les bases de données. Explorez nos sections pour accéder à des guides, tutoriels et ressources pour vous aider dans votre parcours.

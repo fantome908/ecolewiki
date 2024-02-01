@@ -1,13 +1,3 @@
----
-title: sommaire-virtualisation
-description: 
-published: true
-date: 2024-02-01T15:47:24.340Z
-tags: 
-editor: markdown
-dateCreated: 2024-02-01T15:45:55.027Z
----
-
 # Virtualisation
 
 ## 1. Introduction à la Virtualisation

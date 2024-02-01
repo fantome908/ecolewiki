@@ -1,13 +1,3 @@
----
-title: Sommaire-supervision
-description: 
-published: true
-date: 2024-02-01T15:47:16.833Z
-tags: 
-editor: markdown
-dateCreated: 2024-02-01T15:45:44.439Z
----
-
 # Supervision
 
 ## 1. Introduction à la Supervision

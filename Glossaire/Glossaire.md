@@ -1,13 +1,3 @@
----
-title: Glossaire
-description: 
-published: true
-date: 2024-02-01T15:47:26.215Z
-tags: 
-editor: markdown
-dateCreated: 2024-02-01T15:45:57.662Z
----
-
 # Glossaire
 
 ### Matériel :

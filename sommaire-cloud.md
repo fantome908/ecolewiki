@@ -1,13 +1,3 @@
----
-title: sommaire-cloud
-description: 
-published: true
-date: 2024-02-01T15:47:20.534Z
-tags: 
-editor: markdown
-dateCreated: 2024-02-01T15:45:49.759Z
----
-
 # Cloud Computing
 
 ## Introduction au Cloud Computing

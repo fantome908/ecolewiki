@@ -1,13 +1,3 @@
----
-title: Sommaire-OS
-description: 
-published: true
-date: 2024-02-01T15:47:13.057Z
-tags: 
-editor: markdown
-dateCreated: 2024-02-01T15:45:39.234Z
----
-
 # Systèmes d'Exploitation (Windows / Linux / MacOS)
 
 ## Introduction aux Systèmes d'Exploitation
